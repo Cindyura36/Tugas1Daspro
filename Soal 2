@@ -17,3 +17,17 @@ begin
     writeln('November');
     writeln('Desember');
 end.
+
+output :
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+JUli
+Agustus
+September
+Oktober
+November
+Desember
