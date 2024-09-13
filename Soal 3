@@ -1,0 +1,19 @@
+program soal3;
+uses crt;
+
+var
+    Nama, NIM, Kom, Alamat : string;
+
+begin
+    clrscr;
+    write('Masukkan Nama Anda : ');
+    readln(Nama); 
+    write('Masukkan NIM Anda : ');
+    readln(NIM);
+    write('Masukkan Kom Anda : ');
+    readln(Kom);
+    write('Masukkan Alamat Anda : ');
+    readln(Alamat);
+    writeln('Hallo, Nama saya ',Nama,', NIM saya ',NIM,', saya di Kom ',Kom,', alamat saya di ',Alamat,'. Salam Kenal Semua!');
+end.
+
